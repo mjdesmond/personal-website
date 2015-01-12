@@ -1,0 +1,30 @@
+.background {
+	background-color: #668284;
+}
+
+.me {
+  	display: block;
+  	margin: 150px auto;
+  	margin-bottom: 1em;
+  	width: 200px;
+  	height: 200px;
+  	border-radius: 50%;
+  	position: relative;
+}
+
+h1 {
+  font-family: 'Lucida Sans Typewriter', 'Lucida Console', monaco, 'Bitstream Vera Sans Mono', monospace;
+  font-size: 24px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 500;
+  line-height: 26.3999996185303px;
+   text-align: center;
+   color: #222;
+}
+
+h3 {
+  text-align: center;
+  font-size: 18px;
+  color: #222
+}
